@@ -1,2 +1,3 @@
 # hello-world
-This is for class.
+Hello, this Luis
+I'm doing this for a class.
